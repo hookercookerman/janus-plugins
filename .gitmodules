@@ -1,0 +1,10 @@
+[submodule "vim-less"]
+	path = vim-less
+	url = git://github.com/groenewege/vim-less.git
+[submodule "vim-pasta"]
+	path = vim-pasta
+	url = git://github.com/sickill/vim-pasta.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = git://github.com/tpope/vim-rails.git
+
